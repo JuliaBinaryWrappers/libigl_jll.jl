@@ -1,0 +1,58 @@
+[[libigl]]
+arch = "aarch64"
+git-tree-sha1 = "1f8f81ada6f14f70ba7f3fefa925984808c81295"
+os = "macos"
+
+    [[libigl.download]]
+    sha256 = "f1a886d67795856225f0699a5e04630529bd3c18f241408b04482fd174719dba"
+    url = "https://github.com/JuliaBinaryWrappers/libigl_jll.jl/releases/download/libigl-v2.6.0+0/libigl.v2.6.0.aarch64-apple-darwin.tar.gz"
+[[libigl]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e189530cdde3939973b075bc145e1ce73cad9ccf"
+libc = "glibc"
+os = "linux"
+
+    [[libigl.download]]
+    sha256 = "b5063f97ed8d627d4ec785e13025577a9ee159c20350f4f681d66da54e06ed84"
+    url = "https://github.com/JuliaBinaryWrappers/libigl_jll.jl/releases/download/libigl-v2.6.0+0/libigl.v2.6.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[libigl]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "307a879e0d2f9cb013ff5e2a0018a79a19582002"
+libc = "musl"
+os = "linux"
+
+    [[libigl.download]]
+    sha256 = "70882f397ba510e60df62c0aa9ddf879379158717be3d844fd428972a17ff659"
+    url = "https://github.com/JuliaBinaryWrappers/libigl_jll.jl/releases/download/libigl-v2.6.0+0/libigl.v2.6.0.aarch64-linux-musl-cxx11.tar.gz"
+[[libigl]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a037723e4a777a4ee3b67a6ad5d5fd7a28510663"
+libc = "glibc"
+os = "linux"
+
+    [[libigl.download]]
+    sha256 = "154e4d3c19e32af5724aa5f1020150a6423a5c2730f72d751eef7c6e0c178770"
+    url = "https://github.com/JuliaBinaryWrappers/libigl_jll.jl/releases/download/libigl-v2.6.0+0/libigl.v2.6.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[libigl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e999f5c0312fa40b14cd04bbee15f99ad7fe123"
+libc = "glibc"
+os = "linux"
+
+    [[libigl.download]]
+    sha256 = "0283da57de1a0e594c5198cf832dcc3ff3bd2baee1da09c6f5f23640ef0316f2"
+    url = "https://github.com/JuliaBinaryWrappers/libigl_jll.jl/releases/download/libigl-v2.6.0+0/libigl.v2.6.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[libigl]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f1e77a14a7e9967c44b7612b02e2348df9c6a38f"
+libc = "musl"
+os = "linux"
+
+    [[libigl.download]]
+    sha256 = "cc037a9f696a01c9fa52a29b119a9f5a742eb13ba976eb406cec3605a8036223"
+    url = "https://github.com/JuliaBinaryWrappers/libigl_jll.jl/releases/download/libigl-v2.6.0+0/libigl.v2.6.0.x86_64-linux-musl-cxx11.tar.gz"
